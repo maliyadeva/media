@@ -1,25 +1,10 @@
 @font-face {
-   font-family: 'Poppins-Black';
+   font-family: 'sf-pro-display_semibold';
    font-display: swap;
-   src: url('Poppins-Black/font.ttf');
+   src: url('sf-pro-display_semibold/font.woff2');
 }
 @font-face {
-   font-family: 'Poppins-Bold';
+   font-family: 'sf-pro-display_regular';
    font-display: swap;
-   src: url('Poppins-Bold/font.ttf');
-}
-@font-face {
-   font-family: 'Poppins-SemiBold';
-   font-display: swap;
-   src: url('Poppins-SemiBold/font.ttf');
-}
-@font-face {
-   font-family: 'Poppins-Regular';
-   font-display: swap;
-   src: url('Poppins-Regular/font.ttf');
-}
-@font-face {
-   font-family: 'Poppins-Medium';
-   font-display: swap;
-   src: url('Poppins-Medium/font.ttf');
+   src: url('sf-pro-display_regular/font.woff2');
 }
